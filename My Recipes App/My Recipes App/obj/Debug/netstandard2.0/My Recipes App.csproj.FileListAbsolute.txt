@@ -1,0 +1,16 @@
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\My Recipes App.csprojAssemblyReference.cache
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\Views\UIDefiner.xaml.g.cs
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\My Recipes App.AssemblyInfoInputs.cache
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\My Recipes App.AssemblyInfo.cs
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\My Recipes App.csproj.CoreCompileInputs.cache
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\My Recipes App.dll
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\ref\My Recipes App.dll
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\My Recipes App.pdb
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\bin\Debug\netstandard2.0\My Recipes App.deps.json
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\bin\Debug\netstandard2.0\My Recipes App.dll
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\bin\Debug\netstandard2.0\ref\My Recipes App.dll
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\bin\Debug\netstandard2.0\My Recipes App.pdb
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\tecprogramfile\My Recipes App\My Recipes App\My Recipes App\obj\Debug\netstandard2.0\Views\RecipesPage.xaml.g.cs

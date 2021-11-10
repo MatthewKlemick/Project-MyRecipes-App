@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="My_Recipes_App.Views.MyRecipesApp">
+
+    <StackLayout Margin="20">
+        <Editor Placeholder="Enter Recipe Name Here" Text="{Binding RecipeTitle}" HeightRequest="60" TextColor="Black"  FontAttributes="Bold" FontSize="30"/>
+        
+        <Editor Placeholder="Enter You Name Here" Text="{Binding RecipeBy}" HeightRequest="50"  />
+
+        <Label Text="Ingredients" />
+        
+        <Editor Placeholder="Enter Recipe Ingredients Here" Text="{Binding RecipeIngred}" HeightRequest="100" />
+
+        <Label Text="Steps" />
+
+        <Editor Placeholder="Enter Recipe Steps Here" Text="{Binding RecipeSteps}" HeightRequest="100" />
+
+        <Grid ColumnDefinitions="*,*">
+            
+            <Button Text="SAVE" Clicked="OnSaveButtonClicked" />
+            
+            <Button Grid.Column="1" Text="DELETE" Clicked="OnDeleteButtonClicked"/>
+            
+        </Grid>
+    </StackLayout>
+</ContentPage>
